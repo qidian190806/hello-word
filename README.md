@@ -1,2 +1,3 @@
 # hello-word
-study
+develop
+i like study
